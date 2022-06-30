@@ -1,0 +1,125 @@
+[
+    {
+        "title": "Sunbed Miter Brown'",
+        "price": 600,
+        "articul": 1063,
+        "color": "Brown",
+        "imgSrc": "https://phenomenal-brigadeiros-16388e.netlify.app/img/vigvam10.jpeg",
+        "amount":1
+    },
+    {
+        "title": "Wigwam 'Fluffy'",
+        "price": 780,
+        "articul": 1254,
+        "color": "Pink",
+        "imgSrc": "https://phenomenal-brigadeiros-16388e.netlify.app/img/vigvam1.jpeg",
+        "amount":1
+
+    },
+    {
+        "title": "Wigwam 'Halloween'",
+        "price": 1300,
+        "articul": 5000,
+        "color": "Black",
+        "imgSrc": "https://phenomenal-brigadeiros-16388e.netlify.app/img/vigvam4.webp",
+        "amount":1
+    },
+    {
+        "title": "Yurt 'Foxy'",
+        "price": 480,
+        "articul": 1994,
+        "color": "Grey and orange",
+        "imgSrc": "https://phenomenal-brigadeiros-16388e.netlify.app/img/vigvam9.jpeg",
+        "amount":1
+        },
+    {
+        "title": "Hammock 'Lagoon'",
+        "price": 600,
+        "articul": 5500,
+        "color": "Pink",
+        "imgSrc": "https://phenomenal-brigadeiros-16388e.netlify.app/img/vigvam5.jpeg",
+        "amount":1
+
+    },
+    {
+        "title": "Wigwam 'Volcano'",
+        "price": 780,
+        "articul": 7832,
+        "color": "Red",
+        "imgSrc": "https://phenomenal-brigadeiros-16388e.netlify.app/img/vigvam6.jpeg",
+        "amount":1
+
+    },
+    {
+        "title": "Wigwam 'Night'",
+        "price": 1300,
+        "articul": 3290,
+        "color": "Navy",
+        "imgSrc": "https://phenomenal-brigadeiros-16388e.netlify.app/img/vigvam3.webp",
+        "amount":1
+
+    },
+    {
+        "title": "Hammock 'Hawaiian'",
+        "price": 600,
+        "articul": 1040,
+        "color": "Olive",
+        "imgSrc": "https://phenomenal-brigadeiros-16388e.netlify.app/img/vigvam7.jpeg",
+        "amount":1
+
+    },
+    {
+        "title": "Yurt 'Chilli'",
+        "price": 480,
+        "articul": 1342,
+        "color": "Red",
+        "imgSrc": "https://phenomenal-brigadeiros-16388e.netlify.app/img/vigvam8.jpeg",
+        "amount":1
+
+    },
+    {
+        "title": "Yurt 'Everest'",
+        "price": 600,
+        "articul": 1091,
+        "color": "Grey",
+        "imgSrc": "https://phenomenal-brigadeiros-16388e.netlify.app/img/vigvam11.jpeg",
+        "amount":1
+
+    },
+    {
+        "title": "Sunbed 'Aurora'",
+        "price": 450,
+        "articul": 9854,
+        "color": "Beige",
+        "imgSrc": "https://phenomenal-brigadeiros-16388e.netlify.app/img/vigvam12.jpeg ",
+        "amount":1
+
+    },
+    {
+        "title": "Wigwam 'Tower'",
+        "price": 780,
+        "articul": 1320,
+        "color": "Brown",
+        "imgSrc": "https://phenomenal-brigadeiros-16388e.netlify.app/img/vigvam13.jpeg",
+        "amount":1
+
+    },
+    {
+        "title": "Hammock 'Seycheles'",
+        "price": 700,
+        "articul": 8880,
+        "color": "Brown",
+        "imgSrc": "https://phenomenal-brigadeiros-16388e.netlify.app/img/vigvam13.jpeg",
+        "amount":1
+
+    },
+    {
+        "title": "Sunbed 'Asymmetry'",
+        "price": 450,
+        "articul": 8361,
+        "color": "Black",
+        "imgSrc": "https://phenomenal-brigadeiros-16388e.netlify.app/img/vigvam13.jpeg",
+        "amount":1
+
+    }
+]
